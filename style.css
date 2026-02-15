@@ -1,0 +1,35 @@
+h1{
+    font-family: 'times new roman', serif;
+    text-align: center;
+    color: #293241;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15 px;
+}
+img{
+    width: 400px;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15 px;
+}
+body{
+    font-family: 'times new roman', serif;
+    text-align: center;
+    font-size: 20px;
+    color:#3d5a80;
+    background: #98c1d9;
+}
+p {
+    margin: 10px 20px 10px 20px;
+}
+a{
+    color: #293241;
+    text-decoration: none;
+    font-size: 30px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20 px;
+}
+a:hover, a:active {
+  background-color: #98c1d9;
+}
